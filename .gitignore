@@ -1,0 +1,18 @@
+#################
+## Matlab
+#################
+*.asv
+*.m~
+*.fasta
+
+#################
+## log-files
+#################
+*.log
+
+#############
+## Python
+#############
+*.py[co]
+*checkpoint.ipynb
+.ipynb_checkpoints
