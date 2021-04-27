@@ -1,4 +1,5 @@
-% Stochastic model, Fig 1D
+% Stochastic PTM version of the model.  Produces the figures for the PTM
+% violin plots in Figure 3. 
 % 
 %
 % Corresponding ODE model:
