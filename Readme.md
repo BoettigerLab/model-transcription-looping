@@ -2,6 +2,7 @@
 This repository contains source-code for simulations and analyses of transcription-looping, associated with our manuscript:
 
 ## How subtle changes in 3D structure can create large changes in transcription 
+[![DOI](https://zenodo.org/badge/299465350.svg)](https://zenodo.org/badge/latestdoi/299465350)
 
 Jordan Xiao, Alistair Boettiger
 Stanford University, Program in Biophysics, Department of Developmental Biology
