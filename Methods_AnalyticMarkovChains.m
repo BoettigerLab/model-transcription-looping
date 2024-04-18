@@ -1,8 +1,14 @@
-% Figure 6
+% Additional Analysis File:
 % Analytic treatment of an ordinary differential equation representation
 % of the futile cycle promoter
 % 
-
+% This script was originally used to produce Fig6 of the BioRxiv (draft)
+% version of the manuscript. These panels are not retained in the published
+% version in eLife for brevity, but they can provide some helpful intuition
+% on the behavior of the analytically tractable version of the model.  We
+% retain the original figure panel references below for readers interesting
+% in cross-referencing the original text: 
+% https://www.biorxiv.org/content/10.1101/2020.10.22.351395v1
 
 % a colormap 
 cmap = GetColorMap('hsv',8);
